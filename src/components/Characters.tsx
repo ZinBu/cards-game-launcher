@@ -1,3 +1,4 @@
+import React from 'react';
 import { AVPlaybackSource } from "expo-av/build/AV.types";
 import { Character, CharacterRaw } from '../tools/interfaces';
 import { cycle, shuffle } from '../tools/tools';
