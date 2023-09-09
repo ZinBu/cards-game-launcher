@@ -1,5 +1,14 @@
 {
   "name": "@zinbu/cards-game-launcher",
+  "description": "A react-native component which is ready to create a card game easily.",
+  "keywords": [
+    "react-native",
+    "game",
+    "cards",
+    "entertaiment"
+  ],
+  "author": "Roman <romadmt92@gmial.com> (https://github.com/zinbu/)",
+  "license": "MIT",
   "main": "lib/commonjs/index.js",
   "module": "lib/module/index.js",
   "files": [
